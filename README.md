@@ -67,6 +67,8 @@
 ![LAST](https://img.shields.io/badge/LAST-%23FFD700.svg?style=for-the-badge&logo=last&logoColor=black)
 ![DIAMOND](https://img.shields.io/badge/DIAMOND-%232DC4FF.svg?style=for-the-badge&logo=diamond&logoColor=white)
 ![HMMER](https://img.shields.io/badge/HMMER-%2300AEEF.svg?style=for-the-badge&logo=hmmer&logoColor=white)
+- Sequence Search & Clustering:<br/>
+![MMseqs2](https://img.shields.io/badge/MMseqs2-%2300C813.svg?style=for-the-badge&logo=MMseqs2&logoColor=white)
 - Protein Structure Comparison & Search:<br/>
 ![Foldseek](https://img.shields.io/badge/Foldseek-%23FF4500.svg?style=for-the-badge&logo=foldseek&logoColor=white)
 - Structural Visualization & Analysis:<br/>
