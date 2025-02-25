@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 🔭 Pursuing a Master's in Data Science and Information Technologies with a specialization in Bioinformatics and Biomedical Data Science at the National and Kapodistrian University of Athens.  
-- 🧬 Conducting my thesis in metagenomics under the supervision of [Georgios Pavlopoulos](https://www.pavlopouloslab.info/home-1) and [Fotis Baltoumas](https://github.com/fbaltoumas) at the BSRC Alexander Fleming.  
+- 🔭 Pursuing a Master's in Data Science and Information Technologies with a specialization in Bioinformatics and Biomedical Data Science at the National and Kapodistrian University of Athens, Greece.  
+- 🧬 Conducting my thesis in metagenomics under the supervision of [Georgios Pavlopoulos](https://www.pavlopouloslab.info/home-1) and [Fotis Baltoumas](https://github.com/fbaltoumas) at the BSRC Alexander Fleming, Athens, Greece.  
 - 🔬 Designed and implemented computational pipelines and machine learning approaches for analyzing biological data, including single-cell RNA sequencing, protein structure prediction, genetic variant detection, time series forecasting, and image analysis, with applications spanning cancer research, genomics, and data-driven healthcare solutions. 
 - 🤝 Open to collaborating on innovative bioinformatics, data science, and machine learning projects.  
 - 🌐 All of my projects are available [here](https://github.com/GiatrasKon?tab=repositories).
